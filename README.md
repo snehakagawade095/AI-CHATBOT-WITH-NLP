@@ -10,6 +10,9 @@
 
 *DURATION*: 4 WEEKS
 
+*MENTOR*: NEELA SANTOSH
+
+
 Description
 
 This project focuses on building a simple AI chatbot using Python and Natural Language Processing (NLP) concepts. The chatbot is developed using the NLTK (Natural Language Toolkit) library and is designed to interact with users by responding to basic queries through predefined conversational patterns. The purpose of this task is to demonstrate how machines can understand and respond to human language using NLP techniques.
